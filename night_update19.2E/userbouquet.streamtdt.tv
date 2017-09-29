@@ -43,7 +43,7 @@
 #DESCRIPTION TV3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3a324_web/playlist.m3u8:3/24
 #DESCRIPTION 3/24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0: 	http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3ac33_web/playlist.m3u8:C33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3ac33_web/playlist.m3u8:C33
 #DESCRIPTION C33
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone.radiocat.net%3a1935/livereflector/8aldia.stream/playlist.m3u8:8tv
 #DESCRIPTION 8tv
