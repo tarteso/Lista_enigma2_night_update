@@ -1,5 +1,5 @@
 #NAME Streaming TDT
-#SERVICE 1:64:8B:0:0:0:0:0:0:0::****NACIONALES****
+#SERVICE 1:64:8C:0:0:0:0:0:0:0::****NACIONALES****
 #DESCRIPTION ****NACIONALES****
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_1500_av-p.m3u8?sd=10&rebase=on:LA 1
 #DESCRIPTION LA 1
@@ -25,7 +25,7 @@
 #DESCRIPTION 13TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4%3a9KISSTV.mp4/playlist.m3u8:Dkiss
 #DESCRIPTION Dkiss
-#SERVICE 1:64:8C:0:0:0:0:0:0:0::****AUTONOMICOS Y REGIONALES****
+#SERVICE 1:64:8D:0:0:0:0:0:0:0::****AUTONOMICOS Y REGIONALES****
 #DESCRIPTION ****AUTONOMICOS Y REGIONALES****
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8:Aragon TV
 #DESCRIPTION Aragon TV
@@ -87,3 +87,5 @@
 #DESCRIPTION Sevilla FC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8:Betis TV
 #DESCRIPTION Betis TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.com/accounts/22727797/events/7923562/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false:ONDA CADIZ
+#DESCRIPTION ONDA CADIZ
